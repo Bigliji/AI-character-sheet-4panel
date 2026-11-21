@@ -1,0 +1,21 @@
+# 运行产物与本地缓存，不入库
+output/
+_src_cache/
+font_cache/
+delivery/
+*.miora
+
+# 系统与大文件
+.DS_Store
+Thumbs.db
+desktop.ini
+*.psd
+*.zip
+*.mp4
+*.png
+*.jpg
+*.jpeg
+
+# 编辑器
+.vscode/
+.idea/
